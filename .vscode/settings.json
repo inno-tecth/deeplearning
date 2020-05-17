@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/mirage/venv/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "/Users/mirage/venv/lib/python3.7/site-packages/"
+    ]
+}
